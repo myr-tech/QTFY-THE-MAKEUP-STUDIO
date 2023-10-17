@@ -41,7 +41,7 @@ a:focus {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #D5B981;
+    background: #800080;
     width: 44px;
     height: 44px;
     text-align: center;
@@ -73,7 +73,7 @@ a:focus {
 .top-bar {
     position: relative;
     height: 60px;
-    background: #1d2434;
+    background: #800080;
 }
 
 .top-bar .top-bar-left {
@@ -104,7 +104,7 @@ a:focus {
 }
 
 .top-bar .text h2 {
-    color: #eeeeee;
+    color: #bda716;
     font-weight: 600;
     font-size: 16px;
     letter-spacing: 1px;
@@ -112,7 +112,7 @@ a:focus {
 }
 
 .top-bar .text p {
-    color: #eeeeee;
+    color: #d4b726;
     font-size: 12px;
     font-weight: 400;
     margin: 0;
@@ -170,7 +170,7 @@ a:focus {
 
 .navbar .navbar-brand {
     margin: 0;
-    color: #ffffff;
+    color: #d5b225;
     font-size: 45px;
     line-height: 0px;
     font-weight: 600;
@@ -253,7 +253,7 @@ a:focus {
     width: 100%;
     margin-bottom: 45px;
     height: calc(100vh - 60px);
-    background: #D5B981;
+    background: #f1f0ef;
     overflow: hidden;
 }
 
