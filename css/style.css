@@ -218,7 +218,7 @@ a:focus {
     
     .navbar.nav-sticky {
         padding: 10px 60px;
-        background: #1d2434 !important;
+        background: #800080 !important;
     }
     
     .navbar a.nav-link {
@@ -232,7 +232,7 @@ a:focus {
 @media (max-width: 991.98px) {   
     .navbar {
         padding: 15px;
-        background: #1d2434 !important;
+        background: #800080 !important;
     }
     
     .navbar a.nav-link {
@@ -1162,7 +1162,7 @@ a:focus {
     position: relative;
     width: 100%;
     margin: 45px 0;
-    background: #1d2434;
+    background: #330033da;
 }
 
 .contact .container-fluid {
@@ -1173,7 +1173,7 @@ a:focus {
 .contact .contact-form {
     position: relative;
     padding: 90px 0 90px 45px;
-    background: #1d2434;
+    background: #2e002ee2;
 }
 
 .contact .contact-form input {
@@ -1276,7 +1276,7 @@ a:focus {
     position: relative;
     margin-top: 45px;
     padding-top: 90px;
-    background: #1d2434;
+    background: #670167;
 }
 
 .footer .footer-contact,
